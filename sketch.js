@@ -42,7 +42,6 @@ function draw() {
   }
   if (gameState === 3){
     car.velocityY = 0;
-    //gameState = 3;
   }
 
 
